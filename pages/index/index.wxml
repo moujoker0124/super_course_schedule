@@ -8,7 +8,7 @@
                 <input type="idcard" placeholder="" name="userName" value="{{userName}}" />
             </view>
             <view class="section">
-                <view class="section__title">密码</view>
+                <view class="section__title">密码123</view>
                 <input password type="text" placeholder="" name="userPassword" value="{{userPassword}}" />
             </view>
             <view class="section">
